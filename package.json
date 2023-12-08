@@ -1,0 +1,26 @@
+{
+  "name": "vue2ym",
+  "version": "1.0.0",
+  "description": "vue2源码",
+  "main": "index.js",
+  "scripts": {
+    "dev": "rollup -cw"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrl-zxy/vue2ym.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrl-zxy/vue2ym/issues"
+  },
+  "homepage": "https://github.com/lrl-zxy/vue2ym#readme",
+  "devDependencies": {
+    "@babel/core": "^7.23.5",
+    "@babel/preset-env": "^7.23.5",
+    "rollup": "^4.6.1",
+    "rollup-plugin-babel": "^4.4.0"
+  }
+}
